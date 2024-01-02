@@ -35,4 +35,14 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Olá!, meu nome é ![Bruno Carvalho](https://github.com/brunocarvalho-dev).
+Para a solução, achei inteereçante fazer uma modificação no codigo, por exemplo:
+
+* Colocando algumas validações, como exemplo os valores não poderem ser negativos
+* Se a placa contém o número certo de caracteres (*desconsiderando, motos* );
+* Alterando a a solicitação e captalção dos valores monotários da classe **Programa**,  para a *Estacionamento*;
+* formatando o valor de saída para o real brasileiro.
+
+Gostei muito de participar desse projeto, consegui aprender muito nesse desafio de projeto;
+tenho só a agradecer a Dio, a Avanade, e ao Professor Leonardo Buta. 
+
