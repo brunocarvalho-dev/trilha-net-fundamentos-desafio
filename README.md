@@ -35,7 +35,7 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
-Olá!, meu nome é ![Bruno Carvalho](https://github.com/brunocarvalho-dev).
+Olá!, meu nome é *[Bruno Carvalho](https://github.com/brunocarvalho-dev)*.
 Para a solução, achei inteereçante fazer uma modificação no codigo, por exemplo:
 
 * Colocando algumas validações, como exemplo os valores não poderem ser negativos
